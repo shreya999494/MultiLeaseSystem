@@ -1,0 +1,51 @@
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\MultiLease System.exe.config
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\MultiLease System.exe
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\MultiLease System.pdb
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\EntityFramework.dll
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\EntityFramework.xml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\AddLease.g.cs
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MainWindow.g.cs
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\Payment.g.cs
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\PaymentReport.g.cs
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\App.g.cs
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System_MarkupCompile.cache
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System_MarkupCompile.lref
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\AddLease.baml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MainWindow.baml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\Payment.baml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\PaymentReport.baml
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.g.resources
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease_System.Properties.Resources.resources
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.csproj.GenerateResource.Cache
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.exe
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.pdb
+C:\Users\georg\source\repos\MultiLease System\MultiLease System\obj\Debug\MultiLease System.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\MultiLease System.exe.config
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\MultiLease System.exe
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\MultiLease System.pdb
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\AddLease.g.cs
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MainWindow.g.cs
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\Payment.g.cs
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\PaymentReport.g.cs
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\App.g.cs
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System_MarkupCompile.cache
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System_MarkupCompile.lref
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\AddLease.baml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MainWindow.baml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\Payment.baml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\PaymentReport.baml
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.g.resources
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease_System.Properties.Resources.resources
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.csproj.CopyComplete
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.exe
+C:\Users\owner\Desktop\New folder (2)\Car-Lease-System-master\MultiLease System\obj\Debug\MultiLease System.pdb
